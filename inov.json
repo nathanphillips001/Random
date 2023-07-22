@@ -1,5 +1,6 @@
 [
     {
-        "url": "https://inov.li/omega/VZM31-SN_2.15.ota"
+        "url": "https://inov.li/omega/VZM31-SN_2.15.ota",
+        "force": true
     }
 ]
